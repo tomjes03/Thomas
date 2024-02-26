@@ -2,8 +2,8 @@
 
 
 
-I'm a Network Technician, an Area Sales Manager, Software Engineer and a Full Stack Developer. I'm also Cloud Computing, and Blockchain Enthusiast.
-I'm currently studying at Gomycode School, Nigeria's School of Full Stack Developer Class of 2023, Edx and ALX Software Engineering.
+I'm a Network Technician, an Area Sales Manager, Software Engineer and a Full Stack Web Developer. Iam also a Cloud Computing, and a Blockchain Enthusiast.
+I attended Gomycode School, Nigeria's School of Full Stack Developer, Class of 2023.
 
 🧑‍💻 I'm passionate about Learning, solving problems and sharing knowledge.
 
@@ -12,7 +12,7 @@ I'm currently studying at Gomycode School, Nigeria's School of Full Stack Develo
 
 🤓 I am constantly learning new things
 
-😊 I’m looking for help with open source projects, hackathons, internships, Software Engineering Apprenticeship and entry-level opportunities.
+😊 I’m looking for an opportunity to do my internship, collaborate on projects, Software Engineering Apprenticeship and entry-level opportunities.
 
 💼 Job interests: Software Engineer, Full Stack Development and Blockchain Engineer (Apprenticeship, Intern or Junior level).
 
